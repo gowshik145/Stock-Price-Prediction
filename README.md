@@ -1,10 +1,10 @@
 # Stock-Price-Prediction
 
-## AIM
+## AIM:
 
 To develop a Recurrent Neural Network model for stock price prediction.
 
-## Problem Statement and Dataset
+## Problem Statement and Dataset:
 
 Predict future stock prices using an RNN model based on historical closing prices from trainset.csv and testset.csv, with data normalized using MinMaxScaler.
 
